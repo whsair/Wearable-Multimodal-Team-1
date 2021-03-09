@@ -1,0 +1,11 @@
+These videos will help you develop a fundamental understanding of neural networks + backpropagation.
+3b1b - https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+This blog post discusses RNNs and LSTMs very clearly.
+LSTM - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+This is a good tutorial for autoencoders.
+Autoencoder - http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+
+This is an additional resource to learn about RNNs (supplementary).
+Graves RNN - https://arxiv.org/abs/1308.0850

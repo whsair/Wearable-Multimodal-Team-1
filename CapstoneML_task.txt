@@ -1,0 +1,7 @@
+Follow these steps carefully:
+
+1. Take the a-lines from finger simulations with and without artifacts (noise)
+2. Split it into train/validation/test sets.
+3. Train an autoencoder to recover the artifact free (noise free) a-lines from the a-lines with artifacts (noise)
+4. Train a (simple/Elman) RNN to recover the artifact free (noise free) a-lines 
+5. Train an LSTM to recover the artifact free (noise free) a-lines
